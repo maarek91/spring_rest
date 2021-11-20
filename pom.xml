@@ -6,7 +6,7 @@
 
   <groupId>com.markelov.spring.mvc</groupId>
   <artifactId>spring_rest</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>war</packaging>
 
   <name>spring_rest Maven Webapp</name>
